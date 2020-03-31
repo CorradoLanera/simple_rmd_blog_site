@@ -1,0 +1,39 @@
+[
+  {
+    "path": "posts/2020-04-01-week1/",
+    "title": "Week1",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Unknown",
+        "url": {}
+      }
+    ],
+    "date": "2020-04-01",
+    "categories": [
+      "Cat",
+      "Gory"
+    ],
+    "preview": "posts/2020-04-01-week1/week1_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2020-04-01T00:56:37+02:00",
+    "preview_width": 1248,
+    "preview_height": 768
+  },
+  {
+    "path": "posts/2020-04-01-week2/",
+    "title": "Week2",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Unknown",
+        "url": {}
+      }
+    ],
+    "date": "2020-04-01",
+    "categories": [],
+    "preview": "posts/2020-04-01-week2/images/morti-su-ospedalizzati_vento_piemonte.png",
+    "last_modified": "2020-04-01T01:00:27+02:00",
+    "preview_width": 1600,
+    "preview_height": 1200
+  }
+]

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>My amazing site</title>
+    <link>https://my_target_site_url</link>
+    <atom:link href="https://my_target_site_url/schedule.xml" rel="self" type="application/rss+xml"/>
+    <description>My Blog description
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Week1</title>
+      <dc:creator>Unknown</dc:creator>
+      <link>https://my_target_site_url/posts/2020-04-01-week1</link>
+      <description>A short description of the post.</description>
+      <guid>https://my_target_site_url/posts/2020-04-01-week1</guid>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://my_target_site_url/posts/2020-04-01-week1/week1_files/figure-html5/unnamed-chunk-1-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Week2</title>
+      <dc:creator>Unknown</dc:creator>
+      <link>https://my_target_site_url/posts/2020-04-01-week2</link>
+      <description>A short description of the post.</description>
+      <guid>https://my_target_site_url/posts/2020-04-01-week2</guid>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://my_target_site_url/posts/2020-04-01-week2/images/morti-su-ospedalizzati_vento_piemonte.png" medium="image" type="image/png" width="1600" height="1200"/>
+    </item>
+  </channel>
+</rss>

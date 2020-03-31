@@ -1,0 +1,28 @@
+---
+title: "Week2"
+description: |
+  A short description of the post.
+author:
+  - name: Unknown
+    url: {}
+date: 04-01-2020
+categories:
+  - Gory
+output:
+  distill::distill_article:
+    self_contained: false
+preview: images/morti-su-ospedalizzati_vento_piemonte.png
+resources:
+  exclude:
+    *.csv  
+draft: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+

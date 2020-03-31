@@ -1,0 +1,45 @@
+---
+title: "Thest, the test"
+description: My first test site
+date: May 4, 2018
+author:
+  - name: Corrado Lanera
+    affiliation: LAIMS
+  - name: Ciccio Pasticcio
+    affiliation: Orpo di Bacco
+bibliography: biblio.bib
+site: distill::distill_website
+---
+
+## ciao
+
+
+
+``` yaml
+ciao: mandi
+
+```
+a citation [@xie2015], and a footnote.^[This will become a hoverable
+footnote.]
+
+<aside>
+This content will appear in the gutter of the article.
+</aside>
+
+
+## Acknowledgments {.appendix}
+This is a place to recognize people and institutions. It may also be a good place
+to acknowledge and cite software that makes your work possible.
+
+resources: 
+- https://rstd.io/sharing
+- https://rstudio.github.io/distill/blog.html
+
+resources:
+- https://blogtrottr.com/
+- https://disqus.com/
+
+## Author Contributions {.appendix}
+
+We strongly encourage you to include an author contributions statement briefly 
+describing what each author did.

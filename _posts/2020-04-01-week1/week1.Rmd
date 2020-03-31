@@ -1,0 +1,36 @@
+---
+title: "Week1"
+description: |
+  A short description of the post.
+author:
+  - name: Unknown
+date: 04-01-2020
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 2
+categories:
+  - Cat
+  - Gory
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## one
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+
+## two
+# preview = TRUE is for the blog preview
+```{r, layout="l-body-outset", preview=TRUE}
+library(ggplot2)
+ggplot(diamonds, aes(carat, price)) + geom_smooth() +
+  facet_grid(~ cut)
+```
+### three
