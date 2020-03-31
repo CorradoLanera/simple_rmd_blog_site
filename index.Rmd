@@ -13,6 +13,7 @@ site: distill::distill_website
 
 ## ciao
 
+source code: https://github.com/CorradoLanera/simple_rmd_blog_site
 
 
 ``` yaml
@@ -31,11 +32,11 @@ This content will appear in the gutter of the article.
 This is a place to recognize people and institutions. It may also be a good place
 to acknowledge and cite software that makes your work possible.
 
-resources: 
+resources to create the blogsite: 
 - https://rstd.io/sharing
 - https://rstudio.github.io/distill/blog.html
 
-resources:
+resources used inside the blog site:
 - https://blogtrottr.com/
 - https://disqus.com/
 

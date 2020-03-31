@@ -14,7 +14,7 @@ output:
 preview: images/morti-su-ospedalizzati_vento_piemonte.png
 resources:
   exclude:
-    *.csv  
+    "*.csv"
 draft: false
 ---
 

@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
-    <loc>https://my_target_site_url/</loc>
-    <lastmod>2020-04-01T01:28:54+02:00</lastmod>
+    <loc>https://corradolanera.github.io/simple_rmd_blog_site/</loc>
+    <lastmod>2020-04-01T01:54:36+02:00</lastmod>
   </url>
   <url>
-    <loc>https://my_target_site_url/lab_01.html</loc>
+    <loc>https://corradolanera.github.io/simple_rmd_blog_site/lab_01.html</loc>
     <lastmod>2020-04-01T00:35:54+02:00</lastmod>
   </url>
   <url>
-    <loc>https://my_target_site_url/lab_02.html</loc>
+    <loc>https://corradolanera.github.io/simple_rmd_blog_site/lab_02.html</loc>
     <lastmod>2020-04-01T00:35:54+02:00</lastmod>
   </url>
   <url>
-    <loc>https://my_target_site_url/schedule.html</loc>
+    <loc>https://corradolanera.github.io/simple_rmd_blog_site/schedule.html</loc>
     <lastmod>2020-04-01T00:21:36+02:00</lastmod>
   </url>
   <url>
-    <loc>https://my_target_site_url/posts/2020-04-01-week1/</loc>
-    <lastmod>2020-04-01T00:56:37+02:00</lastmod>
+    <loc>https://corradolanera.github.io/simple_rmd_blog_site/posts/2020-04-01-week1/</loc>
+    <lastmod>2020-04-01T01:54:54+02:00</lastmod>
   </url>
   <url>
-    <loc>https://my_target_site_url/posts/2020-04-01-week2/</loc>
-    <lastmod>2020-04-01T01:00:27+02:00</lastmod>
+    <loc>https://corradolanera.github.io/simple_rmd_blog_site/posts/2020-04-01-week2/</loc>
+    <lastmod>2020-04-01T01:55:59+02:00</lastmod>
   </url>
 </urlset>
