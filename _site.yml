@@ -2,7 +2,7 @@ name: blog test
 title: My amazing site
 description: |
   My Blog description
-base_url: https://my_target_site_url
+base_url: https://corradolanera.github.io/simple_rmd_blog_site/
 output_dir: "docs"
 collections:
   posts:
