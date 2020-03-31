@@ -1,0 +1,36 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# simple_rmd_blog_site
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The goal of simple_rmd_blog_site is to provide an example of a (quite
+complete and not trivial) example o a blog site usign simple rmakdown
+(i.e. w/out `{blogdown}`)
+
+
+Site published at 
+
+- site folder changed to `docs/` (default `_site/`) to be publishet
+on githubs pages
+- posts not in default `index.Rmd` file and tab
+- RSS
+- sharing icons
+- custom images
+- draft posts
+- foote and side notes
+- footer
+- menus in header
+- `{distill}` site/articles

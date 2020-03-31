@@ -3,6 +3,7 @@ title: My amazing site
 description: |
   My Blog description
 base_url: https://my_target_site_url
+output_dir: "docs"
 collections:
   posts:
     feed_items_max: 50
